@@ -1,9 +1,8 @@
 ### Olá, me chamo Guilherme Izaac
 
-
-- 🔭 Atualmente estudando programação web
-- 🌱 Estudando HTML/ CSS/ JS, com materias em Node, PHP, Java e React
-- 👯 procurando colaborar em projetos em que me façam tem uma melhor visao sobre a programação no geral
+- 🔭 Atualmente Cursando o terceiro semestre Análise e desenvolvimento de sistemas
+- 🌱 Estudando HTML/ CSS/ JS, com materias em Node, PHP, Java, React e SQL
+- 👯 procurando colaborar em projetos em que me façam tem uma melhor visao sobre a programação e 
 - 📫 Contato: Gizaac312@gmail.com
 
 ##
