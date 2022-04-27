@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estudando programação web
-- 🌱 Estudando HTML/ CSS/ JS
+- 🌱 Estudando HTML/ CSS/ JS, com materias em Node, PHP, Java e React
 - 👯 procurando colaborar em projetos em que me façam tem uma melhor visao sobre a programação no geral
 - 📫 Contato: Gizaac312@gmail.com
 
