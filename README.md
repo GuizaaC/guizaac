@@ -1,6 +1,6 @@
 ### Olá, me chamo Guilherme Izaac
 
--  Atualmente Cursando o terceiro semestre Análise e desenvolvimento de sistemas
+-  Atualmente Cursando o quarto semestre Análise e desenvolvimento de sistemas
 -  Estudando HTML/ CSS/ JS, com módulos em Node, PHP, Java, React e SQL por meio de cursos à parte
 -  procurando colaborar em projetos em que possa aperfeiçoar cada vez mais meus conhecimentos na área de programação
 -  Contato: Gizaac312@gmail.com
